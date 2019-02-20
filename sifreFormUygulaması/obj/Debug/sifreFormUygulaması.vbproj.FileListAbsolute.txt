@@ -1,0 +1,16 @@
+C:\VS\repos\SifrelemeUygulaması\sifreFormUygulaması\bin\Debug\sifreFormUygulaması.exe.config
+C:\VS\repos\SifrelemeUygulaması\sifreFormUygulaması\bin\Debug\sifreFormUygulaması.exe
+C:\VS\repos\SifrelemeUygulaması\sifreFormUygulaması\bin\Debug\sifreFormUygulaması.pdb
+C:\VS\repos\SifrelemeUygulaması\sifreFormUygulaması\bin\Debug\sifreFormUygulaması.xml
+C:\VS\repos\SifrelemeUygulaması\sifreFormUygulaması\bin\Debug\Sifrelemeİslemleri.dll
+C:\VS\repos\SifrelemeUygulaması\sifreFormUygulaması\bin\Debug\Sifrelemeİslemleri.pdb
+C:\VS\repos\SifrelemeUygulaması\sifreFormUygulaması\bin\Debug\Sifrelemeİslemleri.xml
+C:\VS\repos\SifrelemeUygulaması\sifreFormUygulaması\obj\Debug\sifreFormUygulaması.vbprojAssemblyReference.cache
+C:\VS\repos\SifrelemeUygulaması\sifreFormUygulaması\obj\Debug\sifreFormUygulaması.Form1.resources
+C:\VS\repos\SifrelemeUygulaması\sifreFormUygulaması\obj\Debug\sifreFormUygulaması.Resources.resources
+C:\VS\repos\SifrelemeUygulaması\sifreFormUygulaması\obj\Debug\sifreFormUygulaması.vbproj.GenerateResource.cache
+C:\VS\repos\SifrelemeUygulaması\sifreFormUygulaması\obj\Debug\sifreFormUygulaması.vbproj.CoreCompileInputs.cache
+C:\VS\repos\SifrelemeUygulaması\sifreFormUygulaması\obj\Debug\sifreFormUygulaması.vbproj.CopyComplete
+C:\VS\repos\SifrelemeUygulaması\sifreFormUygulaması\obj\Debug\sifreFormUygulaması.exe
+C:\VS\repos\SifrelemeUygulaması\sifreFormUygulaması\obj\Debug\sifreFormUygulaması.xml
+C:\VS\repos\SifrelemeUygulaması\sifreFormUygulaması\obj\Debug\sifreFormUygulaması.pdb

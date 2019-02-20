@@ -1,0 +1,9 @@
+C:\VS\repos\SifrelemeUygulaması\Sifrelemeİslemleri\bin\Debug\Sifrelemeİslemleri.dll
+C:\VS\repos\SifrelemeUygulaması\Sifrelemeİslemleri\bin\Debug\Sifrelemeİslemleri.pdb
+C:\VS\repos\SifrelemeUygulaması\Sifrelemeİslemleri\bin\Debug\Sifrelemeİslemleri.xml
+C:\VS\repos\SifrelemeUygulaması\Sifrelemeİslemleri\obj\Debug\Sifrelemeİslemleri.Resources.resources
+C:\VS\repos\SifrelemeUygulaması\Sifrelemeİslemleri\obj\Debug\Sifrelemeİslemleri.vbproj.GenerateResource.cache
+C:\VS\repos\SifrelemeUygulaması\Sifrelemeİslemleri\obj\Debug\Sifrelemeİslemleri.vbproj.CoreCompileInputs.cache
+C:\VS\repos\SifrelemeUygulaması\Sifrelemeİslemleri\obj\Debug\Sifrelemeİslemleri.dll
+C:\VS\repos\SifrelemeUygulaması\Sifrelemeİslemleri\obj\Debug\Sifrelemeİslemleri.xml
+C:\VS\repos\SifrelemeUygulaması\Sifrelemeİslemleri\obj\Debug\Sifrelemeİslemleri.pdb
